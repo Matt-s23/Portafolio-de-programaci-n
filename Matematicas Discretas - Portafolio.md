@@ -1,596 +1,733 @@
 <div align="center">
 
-# 📚 Portafolio — Unidad 1
-## ⊢ Lógica Proposicional
+# 📚 PORTAFOLIO DE MATEMÁTICAS DISCRETAS
 
-<img src="https://img.shields.io/badge/UNIVERSIDAD-NACIONAL_DE_LOJA-003366?style=for-the-badge&labelColor=0b1120" />
+### Universidad Nacional de Loja
 
-<img src="https://img.shields.io/badge/MATEMÁTICAS-DISCRETAS-5b8dd9?style=for-the-badge&labelColor=0b1120" />
+![Banner](https://univercimas.com/wp-content/uploads/2021/04/Universidad-Nacional-de-Loja-UNL.png)
 
-<img src="https://img.shields.io/badge/PORTAFOLIO-INTERACTIVO-0d6efd?style=for-the-badge&labelColor=0b1120" />
+<br>
+
+<img src="https://img.shields.io/badge/MATEMÁTICAS-DISCRETAS-0d6efd?style=for-the-badge&labelColor=0b1120" />
+<img src="https://img.shields.io/badge/GITHUB-PORTAFOLIO-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/UNIDAD-1_ACTIVA-success?style=for-the-badge" />
 
 ---
 
-### Estudiante: Matias Santiago Calva Gonzalez 
-### Ing : Mario Enrique Cueva 
-### Carrera: Computacion 
-### Ciclo: Primer ciclo 
-### Año: 2026
+## 👨‍🎓 Información Académica
+
+| Campo | Información |
+|:---|:---|
+| 👤 Estudiante | **Matias Santiago Calva Gonzalez** |
+| 👨‍🏫 Docente | **Ing. Mario Enrique Cueva** |
+| 💻 Carrera | **Computación** |
+| 📘 Asignatura | **Matemáticas Discretas** |
+| 🎓 Ciclo | **Primer Ciclo** |
+| 📅 Año Lectivo | **2026** |
+
+---
+
+> ✨ *"La lógica es la base del razonamiento computacional."*
 
 </div>
 
 ---
 
-# 📑 Navegación Inteligente
+# 📑 ÍNDICE GENERAL
 
 <details open>
-<summary><b>📖 RESUMEN TEÓRICO</b></summary>
+<summary><b>📘 Navegación del Portafolio</b></summary>
 
-### 🔹 Fundamentos
-- [1.1 ¿Qué es una proposición?](#-11--qué-es-una-proposición)
-- [1.2 Tipos de proposiciones](#-12--tipos-de-proposiciones)
+<br>
 
-### 🔹 Operadores Lógicos
-- [1.3 Conectores lógicos](#-13--conectores-lógicos)
-- [1.4 Tablas de verdad](#-14--tablas-de-verdad)
+## 🟢 Unidad 1 — Lógica Proposicional
 
-### 🔹 Álgebra Proposicional
-- [1.5 Leyes proposicionales](#-15--leyes-proposicionales)
-- [1.6 Reglas de inferencia](#-16--reglas-de-inferencia)
+### 📖 Contenido Teórico
+- [1.1 ¿Qué es una proposición?](#11--qué-es-una-proposición)
+- [1.2 Tipos de proposiciones](#12--tipos-de-proposiciones)
+- [1.3 Conectores lógicos](#13--conectores-lógicos)
+- [1.4 Tablas de verdad](#14--tablas-de-verdad)
+- [1.5 Leyes proposicionales](#15--leyes-proposicionales)
+- [1.6 Reglas de inferencia](#16--reglas-de-inferencia)
 
-</details>
+### 📊 Ejercicios Resueltos
+- [Ejercicio 1 — Traducción simbólica](#ejercicio-1--traducción-de-lenguaje-natural-a-simbólico)
+- [Ejercicio 2 — Tabla de verdad](#ejercicio-2--construcción-de-tabla-de-verdad)
+- [Ejercicio 3 — Tautología](#ejercicio-3--identificación-de-tautología)
+- [Ejercicio 4 — Contradicción](#ejercicio-4--identificación-de-contradicción)
+- [Ejercicio 5 — Leyes proposicionales](#ejercicio-5--aplicación-de-leyes-proposicionales)
+- [Ejercicio 6 — Validación de argumento](#ejercicio-6--validación-de-argumento)
 
----
+### 🧠 Ejercicio Aplicado
+- [Caso real o cotidiano](#-ejercicio-aplicado)
 
-<details>
-<summary><b>📊 EJERCICIOS RESUELTOS</b></summary>
+### 🔍 Reflexión Personal
+- [¿Qué fue lo más difícil de entender?](#qué-fue-lo-más-difícil-de-entender)
+- [¿Qué tema comprendí mejor?](#qué-tema-comprendí-mejor)
+- [¿Cómo puedo aplicar la lógica en mi carrera?](#cómo-puedo-aplicar-la-lógica-en-mi-carrera)
 
-- [Ejercicio 1 — Traducción simbólica](#-ejercicio-1--traducción-de-lenguaje-natural)
-- [Ejercicio 2 — Tabla de verdad](#-ejercicio-2--tabla-de-verdad)
-- [Ejercicio 3 — Clasificación lógica](#-ejercicio-3--tautología-contradicción-y-contingencia)
-- [Ejercicio 4 — Leyes proposicionales](#-ejercicio-4--leyes-proposicionales)
-- [Ejercicio 5 — Validación de argumentos](#-ejercicio-5--validación-de-argumento)
-
-</details>
-
----
-
-<details>
-<summary><b>🧠 EJERCICIO APLICADO</b></summary>
-
-- [Sistema de control de acceso](#-sistema-de-control-de-acceso)
+### 🔒 Otras Unidades
+- [Unidad 2 — No habilitado](#-unidad-2--no-habilitado)
+- [Unidad 3 — No habilitado](#-unidad-3--no-habilitado)
 
 </details>
 
 ---
 
-<details>
-<summary><b>🔍 REFLEXIÓN PERSONAL</b></summary>
+# 🟢 UNIDAD 1 — LÓGICA PROPOSICIONAL
 
-- [¿Qué fue lo más difícil?](#-qué-fue-lo-más-difícil)
-- [¿Qué tema comprendí mejor?](#-qué-tema-comprendí-mejor)
-- [¿Cómo puedo aplicar la lógica?](#-cómo-puedo-aplicar-la-lógica)
+## 📌 Introducción
 
-</details>
+La lógica proposicional es una de las bases fundamentales de las matemáticas discretas y del razonamiento computacional. Permite representar información mediante símbolos y analizar si un razonamiento es válido o incorrecto.
 
----
+Actualmente se aplica en áreas como:
 
-<details>
-<summary><b>📁 ACTIVIDADES APE</b></summary>
-
-- [Listado de evidencias](#-actividades-ape)
-
-</details>
+- 💻 Desarrollo de software
+- 🤖 Inteligencia artificial
+- 🔐 Seguridad informática
+- 🌐 Redes computacionales
+- 🗄️ Bases de datos
+- ⚙️ Electrónica digital
 
 ---
 
----
+## 📖 1.1 — ¿Qué es una proposición?
 
-# 📖 1.1 — ¿Qué es una Proposición?
+Una **proposición** es un enunciado declarativo que puede clasificarse como **verdadero** o **falso**, nunca ambos a la vez.
 
-> Una **proposición** es un enunciado declarativo al cual se le puede asignar un valor de verdad:
->
-> - Verdadero (`V`)
-> - Falso (`F`)
-
----
-
-## ✅ Ejemplos Correctos
+### ✅ Ejemplos de proposiciones
 
 | Enunciado | Valor |
 |---|---|
-| 7 es un número primo | `V` |
-| 2 + 2 = 5 | `F` |
-| Python es un sistema operativo | `F` |
+| 7 es un número primo | Verdadero |
+| 2 + 2 = 5 | Falso |
+| Python es un sistema operativo | Falso |
 
----
+### ❌ Expresiones que NO son proposiciones
 
-## ❌ No son proposiciones
-
-| Enunciado | Motivo |
+| Expresión | Motivo |
 |---|---|
 | ¿Cómo estás? | Pregunta |
 | Guarda el archivo | Orden |
 | Ojalá funcione | Deseo |
 
----
+### 📌 Idea clave
 
-## 🧠 Idea Clave
+> Toda proposición debe poseer un valor de verdad definido.
 
-```txt
-Toda proposición debe poder verificarse
-como verdadera o falsa.
-```
+Las proposiciones son la base de algoritmos, programación lógica, estructuras condicionales y sistemas computacionales.
 
 ---
 
-# 📖 1.2 — Tipos de Proposiciones
+## 📖 1.2 — Tipos de proposiciones
 
----
+Las proposiciones pueden clasificarse en **simples** y **compuestas**.
 
-## 🔹 Proposiciones Simples
+### 🔹 Proposiciones simples
 
-No contienen conectores lógicos.
+No contienen conectores lógicos. Son la unidad mínima de análisis.
 
-```txt
-p : El servidor está activo
-q : El usuario inició sesión
-```
+Ejemplos:
+- `p` : El servidor está activo
+- `q` : El usuario inició sesión
 
----
+### 🔹 Proposiciones compuestas
 
-## 🔹 Proposiciones Compuestas
+Se forman combinando proposiciones simples mediante conectores lógicos.
 
-Se forman usando operadores lógicos.
+Ejemplos:
+- `p ∧ q`
+- `p → q`
+- `¬p`
 
-```txt
-p ∧ q
-p → q
-¬p
-```
-
----
-
-## ⚡ Diferencia Fundamental
+### 📊 Comparación
 
 | Tipo | Característica |
 |---|---|
-| Simples | No se pueden dividir |
-| Compuestas | Contienen conectores |
+| Simples | No pueden dividirse en partes más pequeñas |
+| Compuestas | Contienen uno o más conectores lógicos |
 
----
+### 💻 Relación con informática
 
-# 📖 1.3 — Conectores Lógicos
+Las condiciones en programación funcionan mediante lógica proposicional:
 
----
-
-## 📌 Tabla Principal
-
-| Símbolo | Nombre | Lectura |
-|---|---|---|
-| `¬` | Negación | No |
-| `∧` | Conjunción | Y |
-| `∨` | Disyunción | O |
-| `→` | Condicional | Si... entonces |
-| `↔` | Bicondicional | Si y solo si |
-
----
-
-## 💡 Ejemplos
-
-| Expresión | Interpretación |
-|---|---|
-| `p ∧ q` | p y q |
-| `p ∨ q` | p o q |
-| `¬p` | no p |
-| `p → q` | si p entonces q |
-
----
-
-## 🧠 Relación con Programación
-
-```txt
-¬p     → !p
-p ∧ q  → p && q
-p ∨ q  → p || q
+```cpp
+if (usuario && contraseña) {
+    // acceso permitido
+}
 ```
 
 ---
 
-# 📖 1.4 — Tablas de Verdad
+## 📖 1.3 — Conectores lógicos
 
-Las tablas de verdad permiten analizar todas las combinaciones posibles de una expresión lógica.
+Los **conectores lógicos** permiten relacionar proposiciones para formar expresiones compuestas.
 
----
+### 📊 Tabla de conectores
 
-## ⚙️ Procedimiento
+| Símbolo | Nombre | Lectura | Descripción |
+|---|---|---|---|
+| `¬` | Negación | "No" | Invierte el valor de verdad |
+| `∧` | Conjunción | "Y" | Verdadero solo si ambas son verdaderas |
+| `∨` | Disyunción | "O" | Falso solo si ambas son falsas |
+| `→` | Condicional | "Si... entonces" | Falso solo cuando el antecedente es V y el consecuente F |
+| `↔` | Bicondicional | "Si y solo si" | Verdadero cuando ambas tienen el mismo valor |
 
-| Paso | Acción |
+### 💻 Equivalencia en programación
+
+| Lógica | Programación |
 |---|---|
-| 1 | Identificar variables |
-| 2 | Calcular filas con 2ⁿ |
-| 3 | Construir columnas |
-| 4 | Resolver conectores |
-| 5 | Obtener resultado final |
+| `¬p` | `!p` |
+| `p ∧ q` | `p && q` |
+| `p ∨ q` | `p \|\| q` |
+
+Los conectores lógicos son fundamentales en validaciones, algoritmos, circuitos digitales e inteligencia artificial.
 
 ---
 
-## 📊 Tabla de Verdad
+## 📖 1.4 — Tablas de verdad
 
-| p | q | p ∧ q | p ∨ q | p → q |
-|---|---|---|---|---|
-| V | V | V | V | V |
-| V | F | F | V | F |
-| F | V | F | V | V |
-| F | F | F | F | V |
+Las **tablas de verdad** permiten analizar todas las combinaciones posibles de valores de una expresión lógica. Con `n` variables, se generan `2ⁿ` filas.
 
----
+### ⚙️ Procedimiento general
 
-## 🎯 Clasificación
-
-| Tipo | Resultado |
+| Paso | Descripción |
 |---|---|
-| 🟢 Tautología | Todo verdadero |
-| 🔴 Contradicción | Todo falso |
-| 🟡 Contingencia | Valores mezclados |
+| 1 | Identificar las variables |
+| 2 | Calcular el número de filas con `2ⁿ` |
+| 3 | Construir las columnas de izquierda a derecha |
+| 4 | Resolver operadores de menor a mayor precedencia |
+| 5 | Obtener el resultado final |
+
+### 📊 Tabla básica para p y q
+
+| p | q | ¬p | p ∧ q | p ∨ q | p → q | p ↔ q |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| V | V | F | V | V | V | V |
+| V | F | F | F | V | F | F |
+| F | V | V | F | V | V | F |
+| F | F | V | F | F | V | V |
+
+### 🎯 Clasificación de expresiones
+
+| Tipo | Resultado | Ejemplo |
+|---|---|---|
+| 🟢 **Tautología** | Siempre verdadero | `p ∨ ¬p` |
+| 🔴 **Contradicción** | Siempre falso | `p ∧ ¬p` |
+| 🟡 **Contingencia** | Valores mixtos | `p → q` |
 
 ---
 
-# 📖 1.5 — Leyes Proposicionales
+## 📖 1.5 — Leyes proposicionales
 
-Las leyes proposicionales permiten transformar expresiones sin cambiar su valor lógico.
+Las **leyes proposicionales** permiten simplificar o transformar expresiones lógicas sin alterar su significado (equivalencia lógica `≡`).
 
----
-
-## 📌 Leyes Importantes
+### 📊 Leyes principales
 
 | Ley | Equivalencia |
 |---|---|
-| Doble Negación | `¬(¬p) ≡ p` |
-| De Morgan | `¬(p ∧ q) ≡ ¬p ∨ ¬q` |
-| Implicación Material | `p → q ≡ ¬p ∨ q` |
-| Conmutativa | `p ∧ q ≡ q ∧ p` |
+| Doble negación | `¬(¬p) ≡ p` |
+| De Morgan (conjunción) | `¬(p ∧ q) ≡ ¬p ∨ ¬q` |
+| De Morgan (disyunción) | `¬(p ∨ q) ≡ ¬p ∧ ¬q` |
+| Implicación material | `p → q ≡ ¬p ∨ q` |
+| Conmutativa (∧) | `p ∧ q ≡ q ∧ p` |
+| Conmutativa (∨) | `p ∨ q ≡ q ∨ p` |
+| Absorción | `p ∧ (p ∨ q) ≡ p` |
+| Identidad | `p ∧ V ≡ p` |
 
----
+### 💻 Aplicación informática
 
-## 💡 Aplicación Real
-
-```txt
-!(A && B)
-```
-
-equivale a:
+La ley de De Morgan es muy usada en programación para simplificar condiciones:
 
 ```txt
-!A || !B
+!(A && B)   equivale a   !A || !B
+!(A || B)   equivale a   !A && !B
 ```
 
----
-
-# 📖 1.6 — Reglas de Inferencia
-
-Las reglas de inferencia permiten obtener conclusiones válidas.
+Estas leyes permiten simplificar condiciones, optimizar código y mejorar algoritmos.
 
 ---
 
-## 🔹 Modus Ponens
+## 📖 1.6 — Reglas de inferencia
 
-```txt
-p → q
-p
-∴ q
+Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de premisas conocidas.
+
+### 🔹 Modus Ponens
+
+```
+Premisa 1:  p → q
+Premisa 2:  p
+            ─────
+Conclusión: ∴ q
 ```
 
----
+### 🔹 Modus Tollens
 
-## 🔹 Modus Tollens
-
-```txt
-p → q
-¬q
-∴ ¬p
+```
+Premisa 1:  p → q
+Premisa 2:  ¬q
+            ─────
+Conclusión: ∴ ¬p
 ```
 
----
+### 🔹 Silogismo Hipotético
 
-## 🔹 Silogismo Hipotético
-
-```txt
-p → q
-q → r
-∴ p → r
+```
+Premisa 1:  p → q
+Premisa 2:  q → r
+            ─────
+Conclusión: ∴ p → r
 ```
 
----
+### 🔹 Adición
 
-## 🔹 Silogismo Disyuntivo
-
-```txt
-p ∨ q
-¬p
-∴ q
+```
+Premisa:    p
+            ─────
+Conclusión: ∴ p ∨ q
 ```
 
----
+### 🔹 Simplificación
+
+```
+Premisa:    p ∧ q
+            ─────
+Conclusión: ∴ p
+```
+
+Estas reglas se utilizan en sistemas expertos, razonamiento computacional, inteligencia artificial y validaciones lógicas.
 
 ---
 
-# 📊 Ejercicio 1 — Traducción de lenguaje natural
-
-<details>
-<summary><b>📋 Ver procedimiento completo</b></summary>
+# 📊 EJERCICIOS RESUELTOS
 
 ---
 
-## 🔹 Enunciado
+## 📌 Ejercicio 1 — Traducción de lenguaje natural a simbólico
 
-> Si el sistema detecta un error y el usuario está conectado, entonces se envía una alerta.
+<details open>
+<summary><b>Ver ejercicio</b></summary>
+
+<br>
+
+### 📷 Evidencia
+
+> ⬇️ *Pegar aquí la imagen del ejercicio resuelto*
+
+```
+[Ejercicio 1 — pendiente de imagen]
+```
+
+<!-- Cuando tengas la imagen, reemplaza el bloque anterior con:
+<img src="ejercicio1.png" width="850">
+-->
 
 ---
 
-## 🔹 Variables
+### Enunciado
+
+> Si el sistema detecta un error **y** el usuario está conectado, **entonces** se envía una alerta.
+
+### Variables
 
 | Variable | Significado |
 |---|---|
-| p | El sistema detecta un error |
-| q | El usuario está conectado |
-| r | Se envía una alerta |
+| `p` | El sistema detecta un error |
+| `q` | El usuario está conectado |
+| `r` | Se envía una alerta |
+
+### Expresión lógica
+
+```
+(p ∧ q) → r
+```
+
+</details>
 
 ---
 
-## 🔹 Traducción lógica
+## 📌 Ejercicio 2 — Construcción de tabla de verdad
+
+<details>
+<summary><b>Ver ejercicio</b></summary>
+
+<br>
+
+### 📷 Evidencia
+
+> ⬇️ *Pegar aquí la imagen del ejercicio resuelto*
+
+```
+[Ejercicio 2 — pendiente de imagen]
+```
+
+<!-- Cuando tengas la imagen, reemplaza el bloque anterior con:
+<img src="ejercicio2.png" width="850">
+-->
+
+---
+
+### Expresión
+
+```
+(p → q) ∧ (¬p ∨ r)
+```
+
+### Tabla de verdad
+
+| p | q | r | p → q | ¬p | ¬p ∨ r | (p → q) ∧ (¬p ∨ r) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| V | V | V | V | F | V | V |
+| V | V | F | V | F | F | F |
+| V | F | V | F | F | V | F |
+| V | F | F | F | F | F | F |
+| F | V | V | V | V | V | V |
+| F | V | F | V | V | V | V |
+| F | F | V | V | V | V | V |
+| F | F | F | V | V | V | V |
+
+### Clasificación
+
+🟡 **Contingencia** — la expresión no es siempre verdadera ni siempre falsa.
+
+</details>
+
+---
+
+## 📌 Ejercicio 3 — Identificación de tautología
+
+<details>
+<summary><b>Ver ejercicio</b></summary>
+
+<br>
+
+### 📷 Evidencia
+
+> ⬇️ *Pegar aquí la imagen del ejercicio resuelto*
+
+```
+[Ejercicio 3 — pendiente de imagen]
+```
+
+<!-- Cuando tengas la imagen, reemplaza el bloque anterior con:
+<img src="ejercicio3.png" width="850">
+-->
+
+---
+
+### Expresión
+
+```
+p ∨ ¬p
+```
+
+### Tabla de verdad
+
+| p | ¬p | p ∨ ¬p |
+|:---:|:---:|:---:|
+| V | F | **V** |
+| F | V | **V** |
+
+### Clasificación
+
+🟢 **Tautología** — la expresión es **siempre verdadera** independientemente del valor de `p`.
+
+</details>
+
+---
+
+## 📌 Ejercicio 4 — Identificación de contradicción
+
+<details>
+<summary><b>Ver ejercicio</b></summary>
+
+<br>
+
+### 📷 Evidencia
+
+> ⬇️ *Pegar aquí la imagen del ejercicio resuelto*
+
+```
+[Ejercicio 4 — pendiente de imagen]
+```
+
+<!-- Cuando tengas la imagen, reemplaza el bloque anterior con:
+<img src="ejercicio4.png" width="850">
+-->
+
+---
+
+### Expresión
+
+```
+p ∧ ¬p
+```
+
+### Tabla de verdad
+
+| p | ¬p | p ∧ ¬p |
+|:---:|:---:|:---:|
+| V | F | **F** |
+| F | V | **F** |
+
+### Clasificación
+
+🔴 **Contradicción** — la expresión es **siempre falsa** independientemente del valor de `p`.
+
+</details>
+
+---
+
+## 📌 Ejercicio 5 — Aplicación de leyes proposicionales
+
+<details>
+<summary><b>Ver ejercicio</b></summary>
+
+<br>
+
+### 📷 Evidencia
+
+> ⬇️ *Pegar aquí la imagen del ejercicio resuelto*
+
+```
+[Ejercicio 5 — pendiente de imagen]
+```
+
+<!-- Cuando tengas la imagen, reemplaza el bloque anterior con:
+<img src="ejercicio5.png" width="850">
+-->
+
+---
+
+### Simplificar la expresión
+
+```
+¬(p ∧ q)
+```
+
+### Procedimiento paso a paso
+
+| Paso | Expresión | Ley aplicada |
+|---|---|---|
+| 1 | `¬(p ∧ q)` | Expresión original |
+| 2 | `¬p ∨ ¬q` | **Ley de De Morgan** |
+
+### Resultado
+
+```
+¬(p ∧ q)  ≡  ¬p ∨ ¬q
+```
+
+### Verificación en programación
 
 ```txt
+!(A && B)   equivale a   !A || !B
+```
+
+</details>
+
+---
+
+## 📌 Ejercicio 6 — Validación de argumento
+
+<details>
+<summary><b>Ver ejercicio</b></summary>
+
+<br>
+
+### 📷 Evidencia
+
+> ⬇️ *Pegar aquí la imagen del ejercicio resuelto*
+
+```
+[Ejercicio 6 — pendiente de imagen]
+```
+
+<!-- Cuando tengas la imagen, reemplaza el bloque anterior con:
+<img src="ejercicio6.png" width="850">
+-->
+
+---
+
+### Premisas
+
+```
+Premisa 1:  p → q
+Premisa 2:  q → r
+Premisa 3:  p
+```
+
+### Procedimiento
+
+| Paso | Operación | Regla aplicada |
+|---|---|---|
+| 1 | De `p → q` y `q → r` se obtiene `p → r` | Silogismo Hipotético |
+| 2 | De `p → r` y `p` se obtiene `r` | Modus Ponens |
+
+### Conclusión
+
+```
+∴ r
+```
+
+### Resultado
+
+✅ **El argumento es válido** — la conclusión se deriva correctamente de las premisas.
+
+</details>
+
+---
+
+# 🧠 EJERCICIO APLICADO
+
+<details open>
+<summary><b>📌 Caso real: Sistema de acceso universitario</b></summary>
+
+<br>
+
+## 📖 Problema planteado
+
+Una plataforma virtual universitaria permite el acceso a un examen **únicamente si**:
+
+- el estudiante ha **iniciado sesión**, **y**
+- el estudiante posee **matrícula activa**.
+
+Si alguna condición no se cumple, el sistema bloqueará el acceso automáticamente.
+
+---
+
+## 🔹 Definición de proposiciones
+
+| Variable | Significado |
+|---|---|
+| `p` | El estudiante inició sesión |
+| `q` | El estudiante tiene matrícula activa |
+| `r` | El estudiante puede acceder al examen |
+
+---
+
+## 🔹 Expresión simbólica
+
+```
 (p ∧ q) → r
 ```
 
 ---
 
-## ✅ Resultado
+## 🔹 Análisis lógico
 
-La expresión representa correctamente el comportamiento descrito.
+La proposición establece que el acceso al examen solo será posible cuando **ambas condiciones sean verdaderas simultáneamente**.
 
-</details>
+### 📊 Tabla de casos posibles
 
----
-
-# 📊 Ejercicio 2 — Tabla de Verdad
-
-<details>
-<summary><b>📋 Ver procedimiento completo</b></summary>
-
----
-
-## 🔹 Expresión
-
-```txt
-(p → q) ∧ (¬p ∨ r)
-```
+| p | q | p ∧ q | Resultado (r) |
+|:---:|:---:|:---:|:---|
+| V | V | V | ✅ Puede acceder al examen |
+| V | F | F | ❌ No puede acceder (sin matrícula) |
+| F | V | F | ❌ No puede acceder (sin sesión) |
+| F | F | F | ❌ No puede acceder |
 
 ---
 
-## 📊 Desarrollo
+## 🔹 Código equivalente
 
-| p | q | r | Resultado |
-|---|---|---|---|
-| V | V | V | V |
-| V | V | F | F |
-| F | V | V | V |
-| F | F | F | V |
-
----
-
-## 🎯 Clasificación
-
-🟡 Contingencia
-
-</details>
-
----
-
-# 📊 Ejercicio 3 — Tautología, Contradicción y Contingencia
-
-<details>
-<summary><b>📋 Ver procedimiento completo</b></summary>
-
----
-
-## 🔹 Tautología
-
-```txt
-p ∨ ¬p
-```
-
-Resultado:
-
-🟢 Siempre verdadero
-
----
-
-## 🔹 Contradicción
-
-```txt
-p ∧ ¬p
-```
-
-Resultado:
-
-🔴 Siempre falso
-
-</details>
-
----
-
-# 📊 Ejercicio 4 — Leyes Proposicionales
-
-<details>
-<summary><b>📋 Ver procedimiento completo</b></summary>
-
----
-
-## 🔹 Expresión Inicial
-
-```txt
-¬(¬p ∧ q)
-```
-
----
-
-## 🔹 Aplicando De Morgan
-
-```txt
-¬¬p ∨ ¬q
-```
-
----
-
-## 🔹 Resultado Final
-
-```txt
-p ∨ ¬q
-```
-
-</details>
-
----
-
-# 📊 Ejercicio 5 — Validación de Argumento
-
-<details>
-<summary><b>📋 Ver procedimiento completo</b></summary>
-
----
-
-## 🔹 Premisas
-
-```txt
-p → q
-q → r
-p
+```python
+if usuario_con_sesion and matricula_activa:
+    permitir_acceso_examen()
+else:
+    bloquear_acceso()
 ```
 
 ---
 
 ## 🔹 Conclusión
 
-```txt
-∴ r
-```
-
----
-
-## 🔹 Reglas Utilizadas
-
-- Silogismo Hipotético
-- Modus Ponens
-
----
-
-## ✅ Resultado
-
-El argumento es válido.
+La lógica proposicional permite representar situaciones reales de manera precisa. En este caso, modelamos exactamente cómo un sistema informático toma decisiones mediante condiciones lógicas combinadas, lo que es la base de cualquier sistema de autenticación y autorización en software.
 
 </details>
 
 ---
 
----
-
-# 🧠 Sistema de Control de Acceso
+# 🔍 REFLEXIÓN PERSONAL
 
 ---
 
-## 📌 Situación
+<details open>
+<summary><b>📌 ¿Qué fue lo más difícil de entender?</b></summary>
 
-Un estudiante puede utilizar los equipos únicamente si presenta carnet vigente y posee horario asignado.
+<br>
 
----
+Lo más difícil fue comprender correctamente el desarrollo de **tablas de verdad** con múltiples conectores lógicos simultáneos. Al principio era fácil confundirse con el orden de precedencia de los operadores y equivocarse en los valores de verdad de expresiones complejas como `(p → q) ∧ (¬p ∨ r)`.
 
-## 🔹 Variables
-
-| Variable | Significado |
-|---|---|
-| p | Tiene carnet |
-| q | Tiene horario |
-| r | Puede ingresar |
+</details>
 
 ---
 
-## 🔹 Expresión lógica
+<details>
+<summary><b>📌 ¿Qué tema comprendí mejor?</b></summary>
 
-```txt
-(p ∧ q) → r
-```
+<br>
 
----
+El tema que comprendí mejor fueron las **leyes proposicionales** y las **reglas de inferencia**, debido a su relación directa con la programación. Al ver que `¬(p ∧ q) ≡ ¬p ∨ ¬q` corresponde exactamente a `!(A && B) == !A || !B` en código, el concepto se volvió muy intuitivo.
 
-## 🔹 Interpretación
-
-El acceso solo es válido cuando ambas condiciones son verdaderas.
+</details>
 
 ---
 
-## 🧠 Aplicación Real
+<details>
+<summary><b>📌 ¿Cómo puedo aplicar la lógica en mi carrera?</b></summary>
 
-Este tipo de lógica se utiliza en:
+<br>
 
-- Ciberseguridad
-- Sistemas de autenticación
-- Bases de datos
-- Redes informáticas
+La lógica proposicional tiene aplicaciones directas en mi carrera de Computación:
 
----
+- **Desarrollo de software**: estructuras condicionales y validaciones
+- **Algoritmos**: análisis de condiciones y toma de decisiones
+- **Bases de datos**: consultas con condiciones lógicas (`AND`, `OR`, `NOT`)
+- **Inteligencia artificial**: sistemas expertos y razonamiento automático
+- **Ciberseguridad**: sistemas de control de acceso y autenticación
 
-# 🔍 ¿Qué fue lo más difícil?
-
-> Comprender la construcción correcta de tablas de verdad con múltiples conectores y el análisis lógico de expresiones complejas.
-
----
-
-# 🔍 ¿Qué tema comprendí mejor?
-
-> Las leyes proposicionales y las reglas de inferencia, debido a su relación directa con programación y algoritmos.
+</details>
 
 ---
 
-# 🔍 ¿Cómo puedo aplicar la lógica?
+# 🔒 UNIDAD 2 — NO HABILITADO
 
-## 🚀 Aplicaciones
+<div align="center">
 
-- Desarrollo de software
-- Validación de condiciones
-- Inteligencia artificial
-- Ciberseguridad
-- Diseño de algoritmos
+## ⚠️ Contenido aún no disponible
+
+</div>
 
 ---
 
----
+# 🔒 UNIDAD 3 — NO HABILITADO
 
-# 📁 Actividades APE
+<div align="center">
 
-| Actividad | Descripción |
-|---|---|
-| APE 01 | Identificación de proposiciones |
-| APE 02 | Tablas de verdad |
-| APE 03 | Leyes lógicas |
-| APE 04 | Compuertas lógicas |
-| APE 05 | Reglas de inferencia |
+## ⚠️ Contenido aún no disponible
+
+</div>
 
 ---
 
-# 🎯 Conclusión General
+# 🎯 CONCLUSIÓN GENERAL
 
-La lógica proposicional constituye una herramienta fundamental para el razonamiento formal, la programación y el análisis computacional. Gracias a ella es posible modelar situaciones reales, validar argumentos y desarrollar sistemas más seguros y eficientes.
+La lógica proposicional constituye una herramienta fundamental para el razonamiento formal y el desarrollo computacional. Gracias a ella es posible analizar situaciones complejas, validar argumentos y desarrollar sistemas eficientes y seguros. Su estudio es indispensable para cualquier profesional del área de la computación.
 
 ---
 
 <div align="center">
 
-## 🎓 Universidad Nacional de Loja
+# 🎓 Universidad Nacional de Loja
 
-### Matemáticas Discretas · Unidad 1 · Lógica Proposicional
+### Matemáticas Discretas · Portafolio Académico · 2026
 
 <img src="https://img.shields.io/badge/PORTAFOLIO-COMPLETADO-success?style=for-the-badge" />
 
+<br>
+
+⭐ Elaborado en GitHub Markdown &nbsp;·&nbsp; 💻 Diseño académico interactivo
+
 </div>
+
