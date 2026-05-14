@@ -227,8 +227,7 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 
 <br>
 
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/4b020076-2d31-4964-af9f-fde491520a01" />
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/b9d5f14a-55fd-4154-8b87-cecdaadf716d" />
+<<img width="938" height="1346" alt="WhatsApp Image 2026-05-13 at 7 16 04 PM" src="https://github.com/user-attachments/assets/098b9503-cba7-4709-96de-d0049ab6a295" />
 
 </details>
 
