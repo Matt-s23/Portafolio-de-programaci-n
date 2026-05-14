@@ -227,8 +227,8 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 
 <br>
 
-<img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b020076-2d31-4964-af9f-fde491520a01" />
-<img width="1436" height="1352" alt="image" src="https://github.com/user-attachments/assets/b9d5f14a-55fd-4154-8b87-cecdaadf716d" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/4b020076-2d31-4964-af9f-fde491520a01" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/b9d5f14a-55fd-4154-8b87-cecdaadf716d" />
 
 </details>
 
@@ -241,10 +241,10 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 
 <br>
 
-<img width="623" height="783" alt="image" src="https://github.com/user-attachments/assets/71bde926-db9c-4585-b3b4-a25ee4b93a1c" />
-<img width="692" height="823" alt="image" src="https://github.com/user-attachments/assets/7fe0a8fe-3d44-4053-901c-359fd82a52ca" />
-<img width="601" height="840" alt="image" src="https://github.com/user-attachments/assets/4d46cfbf-1601-45ae-aaab-ce823218cdca" />
-<img width="631" height="856" alt="image" src="https://github.com/user-attachments/assets/4dc5a7bb-99ad-4f8b-beb7-42da3dcf262d" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/71bde926-db9c-4585-b3b4-a25ee4b93a1c" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/7fe0a8fe-3d44-4053-901c-359fd82a52ca" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/4d46cfbf-1601-45ae-aaab-ce823218cdca" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/4dc5a7bb-99ad-4f8b-beb7-42da3dcf262d" />
 
 </details>
 
@@ -257,16 +257,9 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 
 <br>
 
-<img width="457" height="659" alt="image" src="https://github.com/user-attachments/assets/10c6a716-33b6-4e9a-8990-061d33cb5219" />
-<img width="354" height="508" alt="image" src="https://github.com/user-attachments/assets/a3df0c30-a5e7-45c7-8f87-a40e04c35ca2" />
-<img width="366" height="544" alt="image" src="https://github.com/user-attachments/assets/edbd43aa-1183-412e-a4c5-94149d7faae8" />
-<img width="355" height="480" alt="image" src="https://github.com/user-attachments/assets/480708b0-1902-4cd5-8009-6ffc9edf683c" />
-<img width="362" height="573" alt="image" src="https://github.com/user-attachments/assets/441dca26-a92e-4a80-9c8b-ce0341bd710c" />
-<img width="379" height="570" alt="image" src="https://github.com/user-attachments/assets/0c2c279f-dc7f-4c44-8ae8-0875f76a1c79" />
-<img width="444" height="647" alt="image" src="https://github.com/user-attachments/assets/157a6365-6e46-48fb-85e8-a27cac2641b6" />
-<img width="444" height="691" alt="image" src="https://github.com/user-attachments/assets/e62157e1-4e08-403e-a01f-a68dbadaa78d" />
-<img width="462" height="467" alt="image" src="https://github.com/user-attachments/assets/0934b928-498d-4d19-b859-603442f1365e" />
-
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d0d7223b-b81f-4e72-8914-27ff43478e56" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/fb8460eb-2034-46e5-b140-6d8cb11243fb" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/409cbaac-6999-4799-ab73-362fe79d79b2" />
 
 </details>
 
@@ -279,10 +272,15 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 
 <br>
 
-<img width="689" height="946" alt="image" src="https://github.com/user-attachments/assets/d0d7223b-b81f-4e72-8914-27ff43478e56" />
-<img width="688" height="967" alt="image" src="https://github.com/user-attachments/assets/fb8460eb-2034-46e5-b140-6d8cb11243fb" />
-<img width="689" height="983" alt="image" src="https://github.com/user-attachments/assets/409cbaac-6999-4799-ab73-362fe79d79b2" />
-
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/10c6a716-33b6-4e9a-8990-061d33cb5219" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/a3df0c30-a5e7-45c7-8f87-a40e04c35ca2" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/edbd43aa-1183-412e-a4c5-94149d7faae8" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/480708b0-1902-4cd5-8009-6ffc9edf683c" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/441dca26-a92e-4a80-9c8b-ce0341bd710c" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/0c2c279f-dc7f-4c44-8ae8-0875f76a1c79" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/157a6365-6e46-48fb-85e8-a27cac2641b6" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/e62157e1-4e08-403e-a01f-a68dbadaa78d" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/0934b928-498d-4d19-b859-603442f1365e" />
 
 </details>
 
@@ -295,11 +293,11 @@ Las **reglas de inferencia** permiten obtener conclusiones válidas a partir de 
 
 <br>
 
-<img width="694" height="923" alt="image" src="https://github.com/user-attachments/assets/f01f352e-f925-4a2e-9e48-c6c7d87062a1" />
-<img width="687" height="956" alt="image" src="https://github.com/user-attachments/assets/54f8832f-387d-497d-aa45-c34fb887e6bc" />
-<img width="682" height="935" alt="image" src="https://github.com/user-attachments/assets/d0f3083e-b95b-47af-bfe2-8f857e371fc1" />
-<img width="683" height="921" alt="image" src="https://github.com/user-attachments/assets/ba1e7bfa-3464-4142-a85a-51d7be3906b9" />
-<img width="684" height="446" alt="image" src="https://github.com/user-attachments/assets/d46861a8-5275-41b2-98aa-82ccd27678fa" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f01f352e-f925-4a2e-9e48-c6c7d87062a1" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/54f8832f-387d-497d-aa45-c34fb887e6bc" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d0f3083e-b95b-47af-bfe2-8f857e371fc1" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/ba1e7bfa-3464-4142-a85a-51d7be3906b9" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d46861a8-5275-41b2-98aa-82ccd27678fa" />
 
 
 </details>
